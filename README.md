@@ -2,11 +2,11 @@
 
 # Vincent Derek Held
 
-#### 👋 Hi, I am Vincent - Welcome to my GitHub!
+#### 👋 Hi, I am Vincent Derek Held - Welcome to my GitHub! 
 
 [![Updated Badge](https://img.shields.io/github/last-commit/VincentDerekHeld/VincentDerekHeld/main?label=Last%20Updated&style=flat)]
 
-I am Vincent Derek Held and I am studying Information Systems at the Technical University of Munich.
+studying Information Systems at the Technical University of Munich
 
 ### 🤝 Connect with me on LinkedIn: 
 <a href="https://www.linkedin.com/in/vincent-derek-held/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 
