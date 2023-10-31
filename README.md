@@ -1,15 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Avenir+Next&size=30&pause=1000&color=0010CA&center=true&random=false&width=435&lines=Welcome+to+my+gitHub!;I+am+looking+for+new+challenge!+;Reach+out+to+me!)](https://git.io/typing-svg)
-
-# Vincent Derek Held
-
-#### 👋 Hi, I am Vincent Derek Held - Welcome to my GitHub! 
-
+# 👋 Hi, I am Vincent Derek Held - Welcome to my GitHub! 
 [![Updated Badge](https://img.shields.io/github/last-commit/VincentDerekHeld/VincentDerekHeld/main?label=Last%20Updated&style=flat)]
 
-studying Information Systems at the Technical University of Munich
+## About me:
+- studying Information Systems at the [Technical University of Munich](https://www.cs.cit.tum.de/en/cs/home/)
+- member of [TUM.AI]([TUM](https://www.tum-ai.com/))
 
-### 🤝 Connect with me on LinkedIn: 
-<a href="https://www.linkedin.com/in/vincent-derek-held/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 
+## 🤝 Connect with me on LinkedIn: 
+<a href="https://www.linkedin.com/in/vincent-derek-held/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Vincent Derek Held | LinkedIn" width="20px"/></a> [Vincent Derek Held](https://www.linkedin.com/in/vincent-derek-held/)
+
+## 📫 Connect with me via E-Mail:
+[vincent.held@tum.de](mailto:vincent.held@tum.de)
+
 
 ## 🔭 I’m currently working on:
 - NLP and LLMs for my Bachelor Thesis
